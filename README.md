@@ -26,6 +26,7 @@ This project aims to build a full pipeline for the extraction, processing, analy
 * The .ipynb notebook handles all data extraction, transformation, and SQL loading.
 * The .py Streamlit script builds interactive visualizations.
 * Power BI file .pbix offers an interactive report view for analysis.
+* The processed CSV files were added for reference purposes.
 
 **Tools & Technologies**
 * **Language:** Python
